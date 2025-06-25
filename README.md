@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hey, I'm Huzaifa – aka CodeyHuzaifa
 
-<!--
-**CodeyHuzaifa/CodeyHuzaifa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a self-taught C++ developer on a mission to master:
 
-Here are some ideas to get you started:
+🚀 C++ | 🔐 Reverse Engineering | 💣 Assembly | 🐍 Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💡 What I Do
+
+- 🔧 Build projects in C++ and post them here
+- 📚 Share tutorials, insights, and value on YouTube & IG
+- 🧠 Teach others how to build mental toughness + skills
+- 🛠️ Provide RE + automation services (soon)
+
+---
+
+### 📈 Current Goals
+
+- 🎯 Make my first $100 from C++ projects
+- 🧱 Build my Discord community for developers
+- 🎥 Start my YouTube channel (daily content)
+
+---
+
+### 🛠 Projects So Far
+
+- ✅ [Factorial Calculator in C++](https://github.com/CodeyHuzaifa/Factorial_Calculator_Cpp)
+
+More coming soon...
+
+---
+
+### 📫 Connect with Me
+
+- 🧠 YouTube: *Coming soon*
+- 📸 Instagram: *Coming soon*
+- 🧵 Twitter: *Coming soon*
+- 💬 Discord Server: *Coming soon*
+
+---
+
+> "Discipline is freedom. No motivation, just mission."
