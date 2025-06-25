@@ -41,3 +41,4 @@ More coming soon...
 ---
 
 > "Discipline is freedom. No motivation, just mission."
+> ![CodeyHuzaifa's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeyHuzaifa&show_icons=true&theme=radical)
