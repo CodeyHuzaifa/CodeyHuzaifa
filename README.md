@@ -17,7 +17,7 @@ I'm a self-taught C++ developer on a mission to master:
 
 ### 📈 Current Goals
 
-- 🎯 Make my first $100 from C++ projects
+- 🎯 Make my first $1,000 from C++ projects
 - 🧱 Build my Discord community for developers
 - 🎥 Start my YouTube channel (daily content)
 
