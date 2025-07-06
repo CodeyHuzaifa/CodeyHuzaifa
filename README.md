@@ -17,27 +17,16 @@ I'm a self-taught C++ developer on a mission to master:
 
 ### 📈 Current Goals
 
-- 🎯 Make my first $1,000 from C++ projects
 - 🧱 Build my Discord community for developers
-- 🎥 Start my YouTube channel (daily content)
-
----
-
-### 🛠 Projects So Far
-
-- ✅ [Factorial Calculator in C++](https://github.com/CodeyHuzaifa/Factorial_Calculator_Cpp)
-
-More coming soon...
+- 🎥 Start my YouTube channel (weekly tutorials)
 
 ---
 
 ### 📫 Connect with Me
 
-- 🧠 YouTube: *Coming soon*
-- 📸 Instagram: *Coming soon*
-- 🧵 Twitter: *Coming soon*
-- 💬 Discord Server: *Coming soon*
-
+- 🧠 YouTube: *https://www.youtube.com/@Codey_Huzaifa*
+- 📸 Instagram: *https://www.instagram.com/huzaifadevs/*
+- 🧵 Twitter: *https://x.com/Huzaifadevs*
 ---
 
 > "Discipline is freedom. No motivation, just mission."
