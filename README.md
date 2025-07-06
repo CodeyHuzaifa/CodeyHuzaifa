@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Huzaifa – aka CodeyHuzaifa
+# 👋 Hey, I'm Huzaifa – aka huzaifadev
 
 I'm a self-taught C++ developer on a mission to master:
 
