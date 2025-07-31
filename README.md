@@ -1,17 +1,17 @@
 # 👋 Hey, I'm Huzaifa – aka huzaifadev
 
-I'm a self-taught C++ developer on a mission to master:
+I'm a self-taught developer on a mission to master:
 
-🚀 C++ | 🔐 Reverse Engineering | 💣 Assembly | 🐍 Python
+🚀 C++ | 🐍 Python
 
 ---
 
 ### 💡 What I Do
 
-- 🔧 Build projects in C++ and post them here
+- 🔧 Build projects and post them here
 - 📚 Share tutorials, insights, and value on YouTube & IG
 - 🧠 Teach others how to build mental toughness + skills
-- 🛠️ Provide RE + automation services (soon)
+- 🛠️ provide automation services (soon)
 
 ---
 
@@ -29,5 +29,4 @@ I'm a self-taught C++ developer on a mission to master:
 - 🧵 Twitter: *https://x.com/Huzaifadevs*
 ---
 
-> "Discipline is freedom. No motivation, just mission."
 > ![CodeyHuzaifa's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeyHuzaifa&show_icons=true&theme=radical)
